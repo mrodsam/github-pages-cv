@@ -21,11 +21,13 @@
 
 **MSc Artificial Intelligence Research** - *National University of Distance Education (UNED)*
 
-    - Data mining                   - Information retrieval from texts
-    - Computer Vision               - Semantic Web
-    - Evolutionary computation
+- Data mining                   
+- Information retrieval from texts
+- Computer Vision              
+- Semantic Web
+- Evolutionary computation
 
-**Bachelor's Degree in Telecommunication Technologies Engineering** ***| Mention in Telematics*** - *University of Vigo*
+**Bachelor's Degree in Telecommunication Technologies Engineering (Mention in Telematics)** - *University of Vigo*
 
 
 ## Technologies 💻
@@ -63,10 +65,7 @@ Mesopotamian civilizations using a graph database built from cuneiform corpora](
 - Introduction to Angular Framework. (40 hours)
 
 ## Languages 🗣️
-**Spanish**: Native
-
-**English**: B2
+- **Spanish**: Native
+- **English**: B2
 
 ## Interests and hobbies 🎯	
-
-

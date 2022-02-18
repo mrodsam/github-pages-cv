@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# Marta Rodríguez Sampayo
+*Software developer based in Pontevedra, Spain*
 
-You can use the [editor on GitHub](https://github.com/mrodsam/github-pages-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About me :red_haired_woman:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work experience :woman_technologist:
 
-### Markdown
+### Software Developer @ [Glue Digital](https://glue.digital/)
+*May 2021 - Present*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Software Developer @ [Coremain](https://www.coremain.com/)
+*Nov 2020 - May 2021*
 
-```markdown
-Syntax highlighted code block
+### Research and development @ [atlanTTic](https://atlanttic.uvigo.es/en/)
+*Aug 2019 - Jul 2020*
 
-# Header 1
-## Header 2
-### Header 3
+### Software Developer Intern @ [Qbitia](https://www.qbitia.com/)
+*Jun 2018 - Oct 2018*
 
-- Bulleted
-- List
+## Education :woman_student:
 
-1. Numbered
-2. List
+**MSc Artificial Intelligence Research** - *National University of Distance Education (UNED)*
 
-**Bold** and _Italic_ and `Code` text
+    - Data mining                   - Information retrieval from texts
+    - Computer Vision               - Semantic Web
+    - Evolutionary computation
 
-[Link](url) and ![Image](src)
-```
+**Bachelor's Degree in Telecommunication Technologies Engineering** ***| Mention in Telematics*** - *University of Vigo*
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Technologies :computer:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrodsam/github-pages-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Publications and projects :page_facing_up: 
+- :scroll: [Big Archaeological Data: Mining social information about ancient
+Mesopotamian civilizations using a graph database built from cuneiform corpora](https://doi.org/10.1109/SMAP49528.2020.9248435) - *2020 15th International Workshop on Semantic and Social Media Adaptation and Personalization*
+    
+    Thousands of cuneiform tablets have been excavated that contain administrative texts with proper names, job positions, business transactions, names of institutions, etc. Building on preliminary evidence of feasibility achieved by third authors, we present an approach based on a graph database to extract additional information about communities and individuals of Ancient Mesopotamia. This paper explains how we are creating a semantically-enhanced graph, in which individuals appear as nodes and the interactions between them are expressed as connecting labeled arrows, with vocabularies specifically designed to enable deep analysis.
 
-### Support or Contact
+- :dna:	 **MSc Thesis**: *Qualitative analysis through visual interpretability techniques of neural network models for mammography classification.*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    Nowadays, research in the field of artificial intelligence is focusing on the explainability of the 
+    developed algorithms, mainly neural networks. This trend is known as XAI and brings certain 
+    advantages such as increased confidence in the decision-making, improved capacity for error analysis, verification of results and possibility of model refinement, among others. In this work we have 
+    focused on interpreting the predictions of recently developed deep learning models through different visualization techniques. The use case we introduce is the detection of breast cancer through the classification of mammographies, since the medical field is widely benefited by the contributions of XAI methods. Furthermore, the target neural networks are based on recent and poorly explored architectures. These are the Vision Transformer model, built through attention blocks, and EfficientNet, designed to improve the performance of convolutional networks.
+
+- :shield: **Bachelor's Degree Thesis**: *MACsec in the corporate environment without infrastructure support.*
+
+    At present, it is possible to set up a MACsec security association between two hosts statically. But we want to incorporate in the scenario the MKA protocol (MACsec Key Agreement protocol), specifically designed to dynamically establish such associations. The goal would be to achieve end-to-end encrypted communications (without the need for the intermediate switch to implement MACsec) dynamically.
+
+    - Best proposal of Bachelor's Degree Thesis in the field of Cybersecurity (Deloitte UVigo Chair)
+    - Runner-up prize for best Bachelor's Degree Thesis in the area of cybersecurity (R UVigo-UDC Chair).
+
+- :pill: **Bachelor's Degree Group Project**: *PillO'Clock*
+
+    This project arises from the need for supervision and control of medication in patients who require special care, either because of their illness or because they are dependent. What we provide with our pill box is the confidence that the patient takes the corresponding medication at the right time and, if not, the peace of mind that the caregiver will receive a warning message, allowing him/her to take the corresponding measures.
+    The proposed solution is an electronic pill dispenser. After filling it, each of the compartments where the medication is inserted remains locked until it is time to take it, at which time it is unlocked and signaled by an LED, while an audible alarm is emitted in the pill dispenser as a reminder.
+
+    -  Best social innovation project (HackForGood 2019)
+
+## Courses :books:	
+- MEET-Teleco: Transversal skills and mentoring course. (150 hours)
+- Introductory course on cybersecurity. (44 hours)
+- Introduction to Angular Framework. (40 hours)
+
+## Languages :speaking_head:
+**Spanish**: Native
+
+**English**: B2
+
+## Interests and hobbies :dart:	
+
+

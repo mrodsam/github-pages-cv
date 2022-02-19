@@ -2,20 +2,46 @@
 *Software developer based in Pontevedra, Spain*
 
 ## About me 👩‍🦰
+Like any good software developer, I am interested in solving problems, looking for appropriate solutions both functionally and technologically. I consider that constant learning is a fundamental aspect in any professional field, but with a much greater impact in the technological one.
+
+Personally I am dedicated, flexible but with clear principles, able to make decisions and work in a team. I also consider myself to be quite the organizational geek. I have tutored at various levels and I spend my spare time reading about good programming practices and learning new technologies applicable to my work or not. For example, I've made some platform games for Android and PC based on Unity.
+
 
 ## Work experience 👩‍💻
 
 ### Software Developer @ [Glue Digital](https://glue.digital/)
 *May 2021 - Present*
 
+- Full-stack web development for Inditex.
+- Agile methodology.
+- Continuous integration and deployment.
+- Test Driven Development.
+- Pair/mob programming.
+- Architecture principles: API first, event-driven, hexagonal and domain-driven design.
+
 ### Software Developer @ [Coremain](https://www.coremain.com/)
 *Nov 2020 - May 2021*
+
+- Web development and maintenance for public administration:
+- Front-end: Angular (Typescript), HTML, CSS (SCSS).
+- Back-end: JAVA (Spring) + Oracle SQL.
+- Client interface development with Swing in Netbeans IDE and JavaFX.
 
 ### Research and development @ [atlanTTic](https://atlanttic.uvigo.es/en/)
 *Aug 2019 - Jul 2020*
 
+- Research in AI technologies applied to the decipherment of cuneiform texts.
+- Information mining from texts, generation and analysis of graph databases (Neo4J).
+
 ### Software Developer Intern @ [Qbitia](https://www.qbitia.com/)
 *Jun 2018 - Oct 2018*
+
+- API RESTs Microservices (Java Spring).
+- SQL Databases (JPA Hibernate, JDBC).
+- Version Control (Git).
+- Unit testing (JUnit).
+- CI/CD.
+- Bug Tracking and server configurations.
 
 ## Education 👩‍🎓
 
@@ -31,6 +57,24 @@
 
 
 ## Technologies 💻
+
+- **Programming languages**: 
+    - Java ⭐⭐⭐ 
+    - Pyhton ⭐⭐
+    - C ⭐
+    - Android ⭐
+- **Other languages and standards**: YAML, JSON, XML, HTML, XHTML, CSS, JS, TS
+- **Front-end frameworks**: Angular, React
+- **Databases**: Oracle SQL, Couchbase, Neo4J, MongoDB
+- **API Gateway**: Kong
+- **Messaging**: Apache Kafka, AMQ
+- **Containers**: Docker, OpenShift
+- **Observability**: Grafana, Graylog
+- **IDEs**: JetBrains IDEs, Eclipse, Netbeans, Jupyter Notebook
+- **Version Control**: GIT, SVN
+- **Deployment and Integration**: Github, Bamboo, Jenkins, Spinnaker
+- **Project management**: Jira, Kanban, Redmine, Trello
+- **Other tools**: Teams, Slack, Answerhub
 
 ## Publications and projects 📄 
 - 📜 [Big Archaeological Data: Mining social information about ancient
@@ -68,4 +112,3 @@ Mesopotamian civilizations using a graph database built from cuneiform corpora](
 - **Spanish**: Native
 - **English**: B2
 
-## Interests and hobbies 🎯	

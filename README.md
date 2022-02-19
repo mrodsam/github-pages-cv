@@ -9,8 +9,8 @@ Personally I am dedicated, flexible but with clear principles, able to make deci
 
 ## Work experience 👩‍💻
 
-### Software Developer @ [Glue Digital](https://glue.digital/)
-*May 2021 - Present*
+**Software Developer** @ [Glue Digital](https://glue.digital/)
+(*May 2021 - Present*)
 
 - Full-stack web development for Inditex.
 - Agile methodology.
@@ -19,22 +19,22 @@ Personally I am dedicated, flexible but with clear principles, able to make deci
 - Pair/mob programming.
 - Architecture principles: API first, event-driven, hexagonal and domain-driven design.
 
-### Software Developer @ [Coremain](https://www.coremain.com/)
-*Nov 2020 - May 2021*
+**Software Developer** @ [Coremain](https://www.coremain.com/)
+(*Nov 2020 - May 2021*)
 
 - Web development and maintenance for public administration:
 - Front-end: Angular (Typescript), HTML, CSS (SCSS).
 - Back-end: JAVA (Spring) + Oracle SQL.
 - Client interface development with Swing in Netbeans IDE and JavaFX.
 
-### Research and development @ [atlanTTic](https://atlanttic.uvigo.es/en/)
-*Aug 2019 - Jul 2020*
+**Research and development** @ [atlanTTic](https://atlanttic.uvigo.es/en/)
+(*Aug 2019 - Jul 2020*)
 
 - Research in AI technologies applied to the decipherment of cuneiform texts.
 - Information mining from texts, generation and analysis of graph databases (Neo4J).
 
-### Software Developer Intern @ [Qbitia](https://www.qbitia.com/)
-*Jun 2018 - Oct 2018*
+**Software Developer Intern** @ [Qbitia](https://www.qbitia.com/)
+(*Jun 2018 - Oct 2018*)
 
 - API RESTs Microservices (Java Spring).
 - SQL Databases (JPA Hibernate, JDBC).

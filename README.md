@@ -14,7 +14,7 @@ Personally I am dedicated, flexible but with clear principles, able to make deci
 
 - Full-stack web development for Inditex.
 - Agile methodology.
-- Continuous integration and deployment.
+- Continuous integration and delivery.
 - Test Driven Development.
 - Pair/mob programming.
 - Architecture principles: API first, event-driven, hexagonal and domain-driven design.

@@ -1,7 +1,7 @@
 # Marta Rodríguez Sampayo
 *Software developer based in Pontevedra, Spain*
 
-[Email](martarodsam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/marta-rodriguez-sampayo/)
+[Email](mailto:martarodsam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/marta-rodriguez-sampayo/)
 
 ## About me 👩‍🦰
 Like any good software developer, I am interested in solving problems, looking for appropriate solutions both functionally and technologically. I consider that constant learning is a fundamental aspect in any professional field, but with a much greater impact in the technological one.
